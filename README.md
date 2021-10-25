@@ -2,15 +2,10 @@
 
 Messing around with Google Maps API
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Basic Overview
+Gets the user's current location data using the Google Maps API
+![image](https://user-images.githubusercontent.com/46947396/138749401-f30c0f89-a8f9-4433-b926-1245054bce85.png)
+Clicking the button brings you to the geolocation of John Wayne Airport
+![image](https://user-images.githubusercontent.com/46947396/138749617-b89aa11b-7e6e-4020-a5bc-273121d8cea1.png)
+B
+More of a basic set up of the Google Maps API and seeing what it has to offer. Not usable for any legitimate draft.
